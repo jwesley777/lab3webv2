@@ -13,7 +13,7 @@
             <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@127.0.0.1:1521:orbis"/>
             <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.driver.OracleDriver"/>
             <property name="javax.persistence.jdbc.user" value="s264447"/>
-            <property name="javax.persistence.jdbc.password" value="mdi832"/>
+            <property name="javax.persistence.jdbc.password" value="axaaxaxaxaxaxaxaxaxaaxxaxaax ну нет"/>
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
             <property name="hibernate.id.new_generator_mappings" value="false"/>
